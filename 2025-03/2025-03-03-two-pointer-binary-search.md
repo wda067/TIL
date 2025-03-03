@@ -56,7 +56,7 @@ private static void binarySearch(int i, int j) {
             result[2] = features[m];
         }
 
-        //탐색 범위를 절반
+        //탐색 범위를 절반으로 줄임
         if (total <= 0) {
             s = m + 1;
         } else {
