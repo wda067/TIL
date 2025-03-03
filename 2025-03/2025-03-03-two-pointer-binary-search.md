@@ -22,7 +22,7 @@ private static boolean twoPointer(int i) {
             result[2] = features[e];
         }
 
-        //포인터를 한 칸씩 이동동
+        //포인터를 한 칸씩 이동
         if (sum < 0) {
             s++;
         } else if (sum > 0) {
@@ -56,7 +56,7 @@ private static void binarySearch(int i, int j) {
             result[2] = features[m];
         }
 
-        //탐색 범위를 절반반
+        //탐색 범위를 절반
         if (total <= 0) {
             s = m + 1;
         } else {
