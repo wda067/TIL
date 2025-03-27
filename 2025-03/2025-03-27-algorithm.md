@@ -74,7 +74,7 @@ public class Main {
 }
 ```
 
-[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
+### [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
 
 주어진 맵에서 단순히 주어진 범위의 값을 갱신해나가는, 완전탐색만 하면 답은 쉽게 나온다. 하지만 시간 복잡도가 $O(N*M*K)$가 되어 시간 초과가 발생한다. 
 
